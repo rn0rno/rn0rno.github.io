@@ -3,16 +3,10 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> {{ post.date | date: "%Y年%m月%d日" }}</p>
+      <!--a href="{{ site.baseurl }}{{ post.url }}" class="read-more">この記事を読む</a-->
     </article>
   {% endfor %}
 </div>
