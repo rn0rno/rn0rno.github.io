@@ -1,3 +1,8 @@
+---
+layout: post
+title: Android butterknifeを導入してみた．
+---
+
 # Butter Knife
 ## 概要
 Android用のプラグイン
