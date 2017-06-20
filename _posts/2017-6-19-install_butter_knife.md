@@ -16,7 +16,7 @@ Android用のプラグイン
 
 `build.gradle`に以下のコードを挿入しインストール．
 
-```java:build.gradle
+```java
 dependencies {
   compile 'com.jakewharton:butterknife:8.6.0'
   annotationProcessor 'com.jakewharton:butterknife-compiler:8.6.0'
