@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Android butterknifeを導入してみた．
+categories: ['android']
 ---
 
 # Butter Knife
