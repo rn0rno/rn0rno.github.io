@@ -1,7 +1,10 @@
 ---
 layout: post
 title: jekyll nowにてブログを開設してみた．
-categories: ['daily', 'jekyll']
+categories:
+- daily
+tags:
+- jekyll
 ---
 
 # jekyll now
