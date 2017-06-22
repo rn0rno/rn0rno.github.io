@@ -292,7 +292,7 @@ footer {
 @mixin post-tag {
   padding: 0 .3rem;
   margin: 0 .1rem;
-  background: $link-color;
+  background: white;
   color: white;
   &:hover {
     text-decoration: none;
