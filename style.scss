@@ -292,7 +292,7 @@ footer {
 @mixin post-tag {
   padding: 0 .3rem;
   margin: 0 .1rem;
-  background: white;
+  background: rgb(5, 106, 255);
   color: white;
   &:hover {
     text-decoration: none;
@@ -330,6 +330,17 @@ footer {
     display: inline-block;
     a {
       @include post-tag;
+    }
+  }
+}
+
+.posts-by-tags {
+  div {
+    a {
+      border: 2px dashed #000;
+      display: inline-block;
+      padding: .2em;
+      margin: 0 5px;
     }
   }
 }
