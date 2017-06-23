@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jekyll nowにてブログを開設してみた．
+title: jekyll nowにてブログを開設してみた
 categories:
 - daily
 tags:

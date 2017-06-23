@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android butterknifeを導入してみた．
+title: Android butterknifeを導入してみた
 categories:
 - programming
 tags:
