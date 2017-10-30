@@ -113,6 +113,7 @@ protected void onCreate(Bundle savedInstanceState) {
 }
 ```
 となっており，`ButterKnife.inject(this)`でエラーが発生して困った．
+`ButterKnife.bind(this)`にすることで解決．
 
 ### `import`部分が他のところに書いていなくて困った．
 
