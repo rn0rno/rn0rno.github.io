@@ -18,8 +18,8 @@ avatar: images/jekyll-logo.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: rn0rno
-  facebook:
+  email:
+  facebook: rn0rno
   flickr:
   github: rn0rno
   instagram:
