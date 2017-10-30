@@ -30,7 +30,7 @@ tags:
 
 ### 2. レポジトリの名前を`(account_name).github.io`に変更する．
 
-これができたら(http://www.account_name.github.io)にブログが解説されています！
+これができたら(http://www.account_name.github.io)にブログが開設されています！
 
 **注意: なんかタイムラグがあってすぐには表示されません．**
 
@@ -51,6 +51,7 @@ layout/\*\*\*.htmlっていうのを独自で作れば，独自レイアウト�
 ファイル名は，`yyyy-mm-dd-title.md`にしなくてはならないらしい．  
 
 リポジトリをローカルに落としてきて`git push`するもよし，`github`上で作るもよし．ファイルは以下の様な感じにすると，レイアウトとかタイトルがいい感じになります．
+
 ```md
 ---
 layout: post
