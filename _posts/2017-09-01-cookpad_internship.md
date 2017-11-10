@@ -8,7 +8,6 @@ tags:
 - internship
 ---
 
-# Cookpad社のインターンに行ってきました
 Cookpad社の[17day TECH internship](https://internship.cookpad.com/2017/summer/17day-tech/)に行ってきました．何かしら記録に残しておきたかったので書き綴ります．
 
 ## 応募

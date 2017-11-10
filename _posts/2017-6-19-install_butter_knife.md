@@ -7,8 +7,6 @@ tags:
 - android
 - butterknife
 ---
-
-# Butter Knife
 ## 概要
 Android用のプラグイン
 ([butterknife - github](https://github.com/JakeWharton/butterknife))  
