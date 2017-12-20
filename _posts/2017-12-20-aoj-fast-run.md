@@ -70,6 +70,9 @@ n = gets.chomp.to_i
 dict = {}
 n.times do
   action, str = gets.chomp.split
+
+  # ここでそれぞれの文字を文字コード化し，A=1になるように64で引く
+  # #to_iで高速化を図った．（文字列にすると2sほど遅かった）
   str = str.each_codepoint.map{ |i| i - 64 }.join.to_i
   case action
   when 'insert'
@@ -168,6 +171,13 @@ n.times do
   end
 end
 ```
+
+## いろいろ試行錯誤
+- `case when`を`if else`に変えてみたり
+- `include?`を変えてみたり
+- `action[0] == i`にしてみたり
+
+しましたがうまく行きませんでした．
 
 ## 入力処理を一括で行う
 入力処理が地味にオーバーヘッドなのではないか，と考えてruby1位の方のプログラムを参考にして実装を変えてみました．  
