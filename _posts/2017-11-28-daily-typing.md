@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 記録更新しました！！（タイピングの記録）
+title: タイピング記録更新しました！！
 categories:
 - daily
 tags:

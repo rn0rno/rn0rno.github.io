@@ -1,6 +1,6 @@
 ---
 layout: post
-title: タイピングの記録(2017/11/13)
+title: タイピングの記録
 categories:
 - daily
 tags:
