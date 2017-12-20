@@ -88,6 +88,10 @@ exclude:
 
 theme: jekyll-theme-cayman
 
+# paginate
+paginate: 10
+paginate_path: "/page:num"
+
 # menthoned
 jekyll-mentions:
   base_url: https://twitter.com
