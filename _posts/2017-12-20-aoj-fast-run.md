@@ -10,7 +10,7 @@ tags:
 
 お久しぶりです．  
 AOJの問題でちょっと高速化をいろいろ試してみたので備忘録的にメモをしていきます．  
-今回扱う問題は(ALDS1_4 - C : Search - Dictionary)[http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_C]です．  
+今回扱う問題は[ALDS1_4 - C : Search - Dictionary](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_C)です．  
 最初に試したプログラムがTLEで工夫をこらしていったらもしかしたら提出ruby最速プログラム狙えるのでは？と思っていろいろ試してみました．
 
 ## Array処理
