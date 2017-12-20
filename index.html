@@ -10,5 +10,4 @@ layout: default
     </article>
   {% endfor %}
 </div>
-{% if paginator.next_page %}<li><a href="/page{{ paginator.next_page }}/"> < 古い記事</a></li>{% endif %} |
-{% if paginator.previous_page %}<a href="/{% if paginator.previous_page != 1 %}page{{ paginator.previous_page }}/{% endif %}">新しい記事 > </a>{% endif %}
+{% if paginator.next_page %}<li><a href="/page{{ paginator.next_page }}/"> < 古い記事</a></li>{% endif %} | {% if paginator.previous_page %}<a href="/{% if paginator.previous_page != 1 %}page{{ paginator.previous_page }}/{% endif %}">新しい記事 > </a>{% endif %}
