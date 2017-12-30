@@ -1,4 +1,4 @@
-txt={};
+txt={'タイプ': $('title').text().split(' ')[4]};
 $('#typing_content').contents().find('#current .result_data ul li').each(function(i){
 	title=$(this).find('.title').text();
 	data=$(this).find('.data').text();
