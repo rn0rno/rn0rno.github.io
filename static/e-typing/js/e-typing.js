@@ -1,5 +1,5 @@
 type = $('title').text().split(' ')[4];
-txt={'タイプ': type};
+txt={'タイプ': type, 'created_at': new Date()};
 
 switch (type) {
   case 'ローマ字タイピング':
