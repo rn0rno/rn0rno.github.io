@@ -14,13 +14,18 @@ Ruby on Railsを用いたアプリで[the_garage](https://github.com/cookpad/gar
 環境としては、Catalinaにしてからあまり積極的な開発をしていませんでした。
 
 ```
->> gem install oj
-Building native extensions. This could take a while...
-ERROR:  Error installing oj:
-	ERROR: Failed to build gem native extension.
+>> bundle install
 
-    current directory: /Users/rn0rno/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oj-3.10.2/ext/oj
-/Users/rn0rno/.rbenv/versions/2.6.5/bin/ruby -I /Users/rn0rno/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200209-78520-1337t8q.rb extconf.rb
+... (中略)
+
+Using multi_xml 0.6.0
+Using oauth2 1.4.3
+Fetching oj 3.10.0
+Installing oj 3.10.0 with native extensions
+Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    current directory: /Users/rn0rno/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oj-3.10.0/ext/oj
+/Users/rn0rno/.rbenv/versions/2.6.5/bin/ruby -I /Users/rn0rno/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200209-78469-dt3cdd.rb extconf.rb
 >>>>> Creating Makefile for ruby version 2.6.5 on x86_64-darwin19 <<<<<
 checking for rb_time_timespec()... *** extconf.rb failed ***
 Could not create Makefile due to some reason, probably lack of necessary
@@ -63,12 +68,19 @@ You have to install development tools first.
 
 To see why this extension failed to compile, please check the mkmf.log which can be found here:
 
-  /Users/rn0rno/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/extensions/x86_64-darwin-19/2.6.0/oj-3.10.2/mkmf.log
+  /Users/rn0rno/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/extensions/x86_64-darwin-19/2.6.0/oj-3.10.0/mkmf.log
 
 extconf failed, exit code 1
 
-Gem files will remain installed in /Users/rn0rno/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oj-3.10.2 for inspection.
-Results logged to /Users/rn0rno/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/extensions/x86_64-darwin-19/2.6.0/oj-3.10.2/gem_make.out
+Gem files will remain installed in /Users/rn0rno/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oj-3.10.0 for inspection.
+Results logged to /Users/rn0rno/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/extensions/x86_64-darwin-19/2.6.0/oj-3.10.0/gem_make.out
+
+An error occurred while installing oj (3.10.0), and Bundler cannot continue.
+Make sure that `gem install oj -v '3.10.0' --source 'https://rubygems.org/'` succeeds before bundling.
+
+In Gemfile:
+  the_garage was resolved to 2.4.4, which depends on
+    oj
 ```
 
 # 解決方法
