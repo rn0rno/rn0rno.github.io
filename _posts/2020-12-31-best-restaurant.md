@@ -14,6 +14,8 @@ tags:
 @石川県/金沢駅  
 ¥6,000 / 人
 
+![のどぐろ](/images/posts/2020-12-31-best-restaurant/rest-1.jpg)
+
 ダントツの一位。  
 のどぐろが至高の味。コスパが最強。  
 予約は取りづらいので金沢に行くことを決めたら最初に予約を取るべし
@@ -23,6 +25,8 @@ https://tabelog.com/ishikawa/A1701/A170101/17005534/
 ## 2位: 🥩 蕃 YORONIKU
 @恵比寿駅  
 ¥25,000 / 人
+
+![にく](/images/posts/2020-12-31-best-restaurant/rest-2.jpg)
 
 コースの料金は結構高いけどエンターテイメントの域  
 焼き肉の別の楽しみ方ができて焼き肉の可能性が広がる  
@@ -54,6 +58,8 @@ https://tabelog.com/tokyo/A1304/A130401/13000879/
 @北海道/東本願寺前駅  
 ¥4,000 / 人
 
+![ジンギスカン](/images/posts/2020-12-31-best-restaurant/rest-5.jpg)
+
 ジンギスカン食べ放題ができるお店。  
 タレが本当においしいし、ジンギスカンも癖がなくてとても食べやすくてたくさん食べた  
 北海道に行ったらまた行きたい
@@ -73,6 +79,10 @@ https://tabelog.com/hokkaido/A0101/A010103/1002295/
 ## 1位: ホテルまほろば
 @北海道/登別市
 
+![まほろば](/images/posts/2020-12-31-best-restaurant/hotel-1-1.jpg)
+
+![まほろば2](/images/posts/2020-12-31-best-restaurant/hotel-1-2.jpg)
+
 登別温泉の宿泊施設。  
 なんと言っても大浴場に泉質がたくさんあって温泉がすごく楽しい。  
 [HPの温泉紹介](http://www.h-mahoroba.jp/spa/)を見るとどういうこと？ってなるんですが、ほんとうにそのままめっちゃでかい温泉施設がありました  
@@ -83,6 +93,14 @@ http://www.h-mahoroba.jp
 
 ## 2位: HAKODATE 海峡の風
 @北海道/函館市
+
+![うみのかぜ](/images/posts/2020-12-31-best-restaurant/hotel-2-1.jpg)
+
+![うみのかぜ2](/images/posts/2020-12-31-best-restaurant/hotel-2-2.jpg)
+
+![うみのかぜ3](/images/posts/2020-12-31-best-restaurant/hotel-2-3.jpg)
+
+![うみのかぜ4](/images/posts/2020-12-31-best-restaurant/hotel-2-4.jpg)
 
 湯の川温泉の宿泊施設。  
 大正ロマン風呂・平成モダン風呂っていうコンセプト風呂になっていて面白かった  
@@ -95,6 +113,8 @@ https://hakodate-uminokaze.com
 ## 3位: ホテルモントレ沖縄 スパ & リゾート
 @沖縄県/恩納村
 
+![もんとれ](/images/posts/2020-12-31-best-restaurant/hotel-3.jpg)
+
 恩納村のタイガービーチに面しているリゾート施設  
 プライベートビーチとプールが楽しかった  
 
@@ -106,6 +126,8 @@ https://www.hotelmonterey.co.jp/okinawa/
 ## 4位: 町家レジデンスイン金沢 東山かげろひ
 @石川県/金沢市
 
+![かげろひ](/images/posts/2020-12-31-best-restaurant/hotel-4.jpg)
+
 町家を1棟貸し切りで泊まれるサービスで借りれる宿泊施設  
 ひがし茶屋街や近江町市場まで徒歩圏内という立地で、武家屋敷の家に泊まれて金沢を満喫できました  
 建物自体はとっても古いもので床は凹んだりキイキイ鳴ったり、壁は薄くて2階の喋り超えが聞こえたり（貸し切りなので問題はないけど）という感じだったけどそれも含めていい経験でした  
@@ -115,7 +137,11 @@ https://www.hotelmonterey.co.jp/okinawa/
 https://www.kanazawa-machiya-inn.com/jp/accommodations/kageroi/
 
 ## 5位: 洞爺サンパレスリゾート & スパ
-@北海道/洞爺湖町
+@北海道/洞爺湖
+
+![とうやこ](/images/posts/2020-12-31-best-restaurant/hotel-5-1.jpg)
+
+![とうやこ2](/images/posts/2020-12-31-best-restaurant/hotel-5-2.jpg)
 
 洞爺湖のほとりにあるホテル群の1つ。  
 部屋やご飯は推しポイントはありませんが、夏頃に4ヶ月くらい毎日やってる[洞爺湖ロングラン花火大会](https://www.laketoya.com/event/fireworks/)を部屋から特等席で見れたのが最高でした  
