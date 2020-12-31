@@ -1,163 +1,125 @@
 ---
 layout: post
-title: 2020年レストラン
+title: 2020年行ってよかったとこ
 categories:
 - daily
 tags:
-- 年末まとめ
+- 振り返り
 ---
 
-雑にまとめてみました。  
-色々まとめたら結構な量になってしまった
+レストラン部門と宿泊施設部門をまとめました。
 
-# 日用品
-## ぶんぶんチョッパー
-狭いキッチンで食材を細かく着るときにめちゃくちゃ便利！
-これをつかってミートソースを作りまくっていました。
+# 🍽レストラン部門
+## 1位: 🍶🐟 味楽ゆめり
+@石川県/金沢駅  
+¥6,000 / 人
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00WDZYLT6" width="100%" frameborder="0" scrolling="no"></iframe>
+ダントツの一位。  
+のどぐろが至高の味。コスパが最強。  
+予約は取りづらいので金沢に行くことを決めたら最初に予約を取るべし
 
-## ホワイトボード どこでもシート
-壁に貼るとどこでもホワイトボードにできるスグレモノ  
-在宅ワークが増えてなんか考えをまとめたいなーってなって買いました  
-たまに議論したりするときに便利でした  
+https://tabelog.com/ishikawa/A1701/A170101/17005534/
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2FB01GCDLFG6" width="100%" frameborder="0" scrolling="no"></iframe>
+## 2位: 🥩 蕃 YORONIKU
+@恵比寿駅  
+¥25,000 / 人
 
-## ヒツジのいらない枕
-クラウドファウンディングやっていたから買ってみた。  
-ちょっとたかかったけどすごいい。  
-なんか包まれる感じ?不思議な感じ
+コースの料金は結構高いけどエンターテイメントの域  
+焼き肉の別の楽しみ方ができて焼き肉の可能性が広がる  
+お肉はハチャメチャに美味しい
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.makuake.com%2Fproject%2Ftaiyo11" width="100%" frameborder="0" scrolling="no"></iframe>
+https://tabelog.com/tokyo/A1303/A130302/13211927/
 
-## フィリップス 光 脱毛器 ルメア アドバンス アタッチメント2個付(顔用・からだ用) 光美容器
-顔のひげが邪魔なので、どんなもんなのかと買ってみた。  
-3ヶ月位使ってるけどたしかに減ってきた気がする。
+## 3位: 🍻 こかげ酒場
+@自由が丘駅  
+¥7,000 / 人
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07BQLS35G" width="100%" frameborder="0" scrolling="no"></iframe>
+クラフトビールが飲めるビアバー  
+たまたま行ったときに宇宙ブルーイングのビールを入荷していて飲んだんだけどすごい美味しかった  
+あんまり料理の印象はないけど他も含めてビールはとにかく美味しかったのでビール好きならおすすめ
 
-## Anker Nebula Mars II
-正確に言うと買ったのは今年じゃないけど、去年の年末なのでノミネート。  
-安定性もめちゃくちゃいいし、大画面でライブビューイングができたり、ゲームができたりで最高  
-広くてでかい壁がある人は是非。  
-ルーメンもでかいので昼間でも安心。
+https://tabelog.com/tokyo/A1317/A131703/13181411/
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07M959YDF" width="100%" frameborder="0" scrolling="no"></iframe>
+## 4位: 🍶 鼎
+@新宿三丁目駅
+¥10,000 / 人
 
-# 衣服
-## コントラストカラーステッチ Tシャツ / Paul Smith
-一目惚れして買ったやつ。  
-かわいくて素材感もよくてお気に入り
+日本酒が美味しい居酒屋  
+全体的に単価が高いけど、美味しい  
+追いついた雰囲気で日本酒と海鮮を楽しめておすすめ
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.paulsmith.co.jp%2Fshop%2Fmen%2Ft_shirts/products/1025265200254T____" width="100%" frameborder="0" scrolling="no"></iframe>
+https://tabelog.com/tokyo/A1304/A130401/13000879/
 
-## イタリア ゴムメッシュベルト / TAKEO KIKUCHI
-店員に自分の好みのベルトを言ったら持ってきてくれたやつ  
-ゴム仕様でハチャメチャ使いやすくて最高
+## 5位: 🐑 ジンギスカン 十鉄
+@北海道/東本願寺前駅
+¥4,000 / 人
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fstore.world.co.jp%2Fbrand%2Ftakeo-kikuchi%2Fitem%2FBR07020F0133" width="100%" frameborder="0" scrolling="no"></iframe>
+ジンギスカン食べ放題ができるお店。  
+タレが本当においしいし、ジンギスカンも癖がなくてとても食べやすくてたくさん食べた  
+北海道に行ったらまた行きたい
 
-## ブロッキングポケットTシャツ / TAKEO KIKUCHI
-ネイビーのやつ。色合いが好きだったけど素材感も良くて最高  
+https://tabelog.com/hokkaido/A0101/A010103/1002295/
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fstore.world.co.jp%2Fbrand%2Ftakeo-kikuchi%2Fitem%2FBR07020S0607" width="100%" frameborder="0" scrolling="no"></iframe>
+## 入賞
+他にもランクインしませんでしたが印象に残ったものをノミネート
 
-# デスク環境
-## Flexispot 電動式スタンディングデスク E3
-昇降デスク  
-セールだったので買ってしまいました。めちゃくちゃお気に入り。  
-天板は120x60のEbony！
+[神楽坂アッカ](https://tabelog.com/tokyo/A1309/A130905/13216288/): 🍷 @神楽坂駅 ワインのペアリング   
+[ヴァカンツァ](https://tabelog.com/tokyo/A1303/A130302/13007135/): 🍕 @恵比寿駅 ピザ  
+[神楽坂焼肉 Kintan](https://tabelog.com/tokyo/A1309/A130905/13205332/): 🥩 @神楽坂駅 焼き肉
+[琉球の牛 恩納本館](https://tabelog.com/okinawa/A4703/A470303/47000637/): 🥩 @沖縄県恩納村 焼き肉
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fflexispot.jp/e3-set.html" width="100%" frameborder="0" scrolling="no"></iframe>
+# 🏨 宿泊施設部門
 
-## Amazonベーシック モニターアーム ノートパソコン用 アーム マウントトレー
-ノーパソを置くように買いました。  
-結局、ノーパソはデスク上において、これにはiPadをおいて動画鑑賞用にしています。
+## 1位: ホテルまほろば
+@北海道/登別市
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2FB010QZD6I6" width="100%" frameborder="0" scrolling="no"></iframe>
+登別温泉の宿泊施設。  
+なんと言っても大浴場に泉質がたくさんあって温泉がすごく楽しい。  
+[HPの温泉紹介](http://www.h-mahoroba.jp/spa/)を見るとどういうこと？ってなるんですが、ほんとうにそのままめっちゃでかい温泉施設がありました  
 
-## Amazonベーシック モニターアーム シングル ディスプレイタイプ 2点セット ブラック
-モニターアーム。セールで安くなってたので購入しました。  
-デュアルディスプレイタイプにするか迷いましたがシングルディスプレイx2の方を買いました。  
-そのほうが柔軟に対応できると思ったので。  
-使ってる限りはとても快適です。
+「櫟」という部屋に泊まったんですが、これまた最高でした
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2FB07PY4TX8B" width="100%" frameborder="0" scrolling="no"></iframe>
+http://www.h-mahoroba.jp
 
-## モニターアーム補強プレート 取付部硬さ強化対策 デスク保護 天板補強 ぐらつき防止 傷防止 滑り止めシート付き 説明書付き (ブラック)
-デスク保護のために買っておきました。  
-でかいかなと思ったけどぴったりだった。
+## 2位: HAKODATE 海峡の風
+@北海道/函館市
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2FB08GJDYVCY" width="100%" frameborder="0" scrolling="no"></iframe>
+湯の川温泉の宿泊施設。  
+大正ロマン風呂・平成モダン風呂っていうコンセプト風呂になっていて面白かった  
+そしてなんと言ってもホテルで提供される飯の空間がすっごい楽しかったし海鮮が美味しかった。  
 
-## LG ゲーミング モニター ディスプレイ 27UL500-W
-4k 27インチディスプレイ。こちらもセールで安かったので購入しました。
-良い。
+部屋は「ツインルーム」というところだったので、次行くとしたら展望風呂付きに泊まってみたい
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2FB07NH8S9JL" width="100%" frameborder="0" scrolling="no"></iframe>
+https://hakodate-uminokaze.com
 
-## INOVA(イノバ) ケーブル結束バンド 14.5×1.1cm
-ケーブルめっちゃまとまっていい。  
-欲を言えばもっと大きめのやつでも良かったかも。太いケーブルだとやや怪しい。
+## 3位: ホテルモントレ沖縄 スパ & リゾート
+@沖縄県/恩納村
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2FB07TRL52FV" width="100%" frameborder="0" scrolling="no"></iframe>
+恩納村のタイガービーチに面しているリゾート施設  
+プライベートビーチとプールが楽しかった  
 
-## サンワサプライ 電源タップ 雷ガード 一括集中スイッチ マグネット付き 10個口・2P (3m)
-テーブルにくっつけるためにマグネット付きの電源タップを買いました  
-ついでに雷サージつき。めちゃくちゃお気に入りの一つ。
+プレミアムクラブフロアのオーシャンバスという部屋に泊まったのですが、部屋からのオーシャンビューも最高だし、プレミアムクラブフロアの特典でついてくる温水スパや温泉に入り放題だし、ロビーにあるバーでアルコール飲み放題だしで最高に堕落したリゾート気分を満喫できました  
+泊まる際はちょっと値段上がりますがプレミアムクラブフロアにするのをおすすめします
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2FB071VC8VWQ" width="100%" frameborder="0" scrolling="no"></iframe>
+https://www.hotelmonterey.co.jp/okinawa/
 
-## Brigii ミニ ハンディクリーナー
-卓上クリーナーが欲しくて買いました。  
-毎朝起きたときに机周りを掃除するのに使ってます。  
-値段の割にめちゃくちゃ強力でめっちゃいい。
+## 4位: 町家レジデンスイン金沢 東山かげろひ
+@石川県/金沢市
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2FB087JRV75R" width="100%" frameborder="0" scrolling="no"></iframe>
+町家を1棟貸し切りで泊まれるサービスで借りれる宿泊施設  
+ひがし茶屋街や近江町市場まで徒歩圏内という立地で、武家屋敷の家に泊まれて金沢を満喫できました  
+建物自体はとっても古いもので床は凹んだりキイキイ鳴ったり、壁は薄くて2階の喋り超えが聞こえたり（貸し切りなので問題はないけど）という感じだったけどそれも含めていい経験でした  
+また、管理会社の人がとっても新設でいろいろなお願いを受け入れてくれて、テーブルや加湿器などなど貸し出してくれました。（とってもありがたい）  
+またこのサービスを利用したいな！と思いました。
 
-# ゲーム
-## Nintendo Switch Lite ザシアン・ザマゼンタ
-持ち歩きたかったので買った
+https://www.kanazawa-machiya-inn.com/jp/accommodations/kageroi/
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07V5NC4FD" width="100%" frameborder="0" scrolling="no"></iframe>
+## 5位: 洞爺サンパレスリゾート & スパ
+@北海道/洞爺湖町
 
-## Stingray Nintendo Switch docking station
-Nintendo SwitchをDockなしでテレビにつなげるするようにするやつです。  
-アメリカ発の企業がクラウドファウンディングをして作ったプロダクトらしくて、かっこいいです。  
-有線LANもつながるし最高  
-（でも実用ではTUTUOのやつを使っています（Amazonから消えてしまった））
+洞爺湖のほとりにあるホテル群の1つ。  
+部屋やご飯は推しポイントはありませんが、夏頃に4ヶ月くらい毎日やってる[洞爺湖ロングラン花火大会](https://www.laketoya.com/event/fireworks/)を部屋から特等席で見れたのが最高でした  
+でもこれはここじゃなくてもほとりにあるホテルならどこでも見れそうな感じ  
+あとは、花火ボートを追いかける遊覧船で見るのも面白そう
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2FB07YSCQQX6" width="100%" frameborder="0" scrolling="no"></iframe>
-
-## Overcooked® 2 - オーバークック２ / Nintendo Switch
-2人プレイでずっとやってた。
-1ステージ1ステージが結構サクサク行くので楽しかった  
-めちゃくちゃ工夫して★3を取るのが楽しかったですね
-
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fstore-jp.nintendo.com%2Flist%2Fsoftware%2F70010000010088.html" width="100%" frameborder="0" scrolling="no"></iframe>
-
-## 天穂のサクナヒメ / Nintendo Switch
-言わずもがな  
-まだクリアしてないけど
-
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.marv.jp%2Fspecial%2Fgame%2Fsakuna" width="100%" frameborder="0" scrolling="no"></iframe>
-
-## 世界のアソビ大全 / Nintendo Switch
-DSのときから大好きだったので即購入した
-これを期に麻雀にハマった  
-
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.nintendo.co.jp%2Fswitch%2Fas7ta" width="100%" frameborder="0" scrolling="no"></iframe>
-
-## ポケットモンスター　ソード・シールド / Nintendo Switch
-今作は始めて孵化厳選とかして対戦までしてみた  
-パーティ構築するのめちゃくちゃ楽しかった。飽きちゃったけど。  
-色違い欲しかった…。グレイシアが好きです。
-
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.pokemon.co.jp%2Fex%2Fsword_shield" width="100%" frameborder="0" scrolling="no"></iframe>
-
-## シヴィライゼーション VI / App Store
-なんかこういうゲームやってみたいなと思ってとりあえずiPad版を買ってみた  
-やり込んではないけどやり始めると4時間位溶けてビビる
-
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2F2kgames.jp%2Fcivilization6_jp" width="100%" frameborder="0" scrolling="no"></iframe>
+https://www.toyasunpalace.co.jp
