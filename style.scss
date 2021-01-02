@@ -189,7 +189,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $pink;
   }
 }
 
@@ -342,7 +342,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $pink;
     }
   }
 }
@@ -352,8 +352,43 @@ nav {
 //
 
 .posts > .post {
-  // padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  margin: 2em 0;
+  padding: 2em;
+  background: $lightGray;
+
+  h4 {
+    font-size: 22px;
+    color: $darkerGray;
+  }
+
+  .date {
+    text-align: right;
+    color: $darkerGray;
+    font-size: 12px;
+    margin-bottom: 1em;
+  }
+
+  .excerpt {
+    margin-top: .5em;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: $darkerGray;
+  }
+
+  .more {
+    margin-top: 1em;
+    padding: .6em 0;
+    text-align: center;
+    border: 1px solid $gray;
+
+    &:hover {
+      color: $darkerGray;
+    }
+  }
+
+  a {
+    color: $gray;
+  }
 }
 
 .posts > .post:last-child {

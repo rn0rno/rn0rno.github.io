@@ -89,7 +89,7 @@ exclude:
 theme: jekyll-theme-cayman
 
 # paginate
-paginate: 30
+paginate: 10
 paginate_path: "/page:num"
 
 # menthoned
