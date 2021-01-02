@@ -2,7 +2,7 @@
 layout: post
 title: 辞書検索の高速化を図る(ruby)
 categories:
-- programming
+- 日記
 tags:
 - ruby
 - aoj

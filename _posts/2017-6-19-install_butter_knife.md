@@ -2,10 +2,9 @@
 layout: post
 title: Android butterknifeを導入してみた
 categories:
-- programming
+- 日記
 tags:
-- android
-- butterknife
+- Android
 ---
 ## 概要
 Android用のプラグイン

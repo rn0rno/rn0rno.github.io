@@ -2,10 +2,9 @@
 layout: post
 title: タイピング記録更新しました！！
 categories:
-- daily
+- 日記
 tags:
-- typing
-- e-typing
+- タイピング
 ---
 
 お久しぶりです．  

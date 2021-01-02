@@ -2,7 +2,7 @@
 layout: post
 title: 2019年振り返り
 categories:
-- daily
+- 日記
 tags:
 - 振り返り
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Cookpad社でインターンしてきました
 categories:
-- daily
+- 日記
 tags:
 - Cookpad
 - internship

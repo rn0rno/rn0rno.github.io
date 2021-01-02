@@ -2,10 +2,9 @@
 layout: post
 title: ニコ生タイピング大会に参加してきました
 categories:
-- daily
+- 日記
 tags:
-- typing
-- ニコ生タイピング
+- タイピング
 ---
 
 ## ニコ生タイピングとは

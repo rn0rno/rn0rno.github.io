@@ -2,7 +2,7 @@
 layout: post
 title: ojがinstallできない
 categories:
-- daily
+- 日記
 tags:
 - エラー
 - ruby

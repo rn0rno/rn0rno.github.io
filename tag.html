@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts By Tags
+title: タグ一覧
 permalink: /tags/
 ---
 
@@ -32,12 +32,16 @@ permalink: /tags/
         {{ tag_name | capitalize | replace: "_", " " }}
       </h3>
 
-      {% for post in site.tags[tag_name] %}
-        <a href="{{ post.url | prepend: baseurl }}">
-          {{ post.title }}
-          <span>({{ post.date | date: "%Y/%m/%d" }})</span>
-        </a>
-      {% endfor %}
+      <ul>
+        {% for post in site.tags[tag_name] %}
+          <li>
+            <a href="{{ post.url | prepend: baseurl }}">
+              {{ post.title }}
+              <span>({{ post.date | date: "%Y/%m/%d" }})</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
   {% endfor %}
 </section>

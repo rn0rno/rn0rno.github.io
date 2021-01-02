@@ -2,7 +2,7 @@
 layout: post
 title: Githubのユーザーネーム変えました
 categories:
-- daily
+- 日記
 tags:
 - git
 ---

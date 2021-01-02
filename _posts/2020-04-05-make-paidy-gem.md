@@ -2,7 +2,7 @@
 layout: post
 title: Ruby向けPaidyクライアントのgemを作った
 categories:
-- daily
+- 日記
 tags:
 - gem
 - ruby

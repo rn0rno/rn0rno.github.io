@@ -2,10 +2,9 @@
 layout: post
 title: タイピングの記録
 categories:
-- daily
+- 日記
 tags:
-- typing
-- e-typing
+- タイピング
 ---
 
 ## e-typing

@@ -2,7 +2,7 @@
 layout: post
 title: 2020年行ってよかったとこ
 categories:
-- daily
+- 日記
 tags:
 - 振り返り
 ---
@@ -20,7 +20,7 @@ tags:
 のどぐろが至高の味。コスパが最強。  
 予約は取りづらいので金沢に行くことを決めたら最初に予約を取るべし
 
-https://tabelog.com/ishikawa/A1701/A170101/17005534/
+<https://tabelog.com/ishikawa/A1701/A170101/17005534/>
 
 ## 2位: 🥩 蕃 YORONIKU
 @恵比寿駅  
@@ -32,7 +32,7 @@ https://tabelog.com/ishikawa/A1701/A170101/17005534/
 焼き肉の別の楽しみ方ができて焼き肉の可能性が広がる  
 お肉はハチャメチャに美味しい
 
-https://tabelog.com/tokyo/A1303/A130302/13211927/
+<https://tabelog.com/tokyo/A1303/A130302/13211927/>
 
 ## 3位: 🍻 こかげ酒場
 @自由が丘駅  
@@ -42,7 +42,7 @@ https://tabelog.com/tokyo/A1303/A130302/13211927/
 たまたま行ったときに宇宙ブルーイングのビールを入荷していて飲んだんだけどすごい美味しかった  
 あんまり料理の印象はないけど他も含めてビールはとにかく美味しかったのでビール好きならおすすめ
 
-https://tabelog.com/tokyo/A1317/A131703/13181411/
+<https://tabelog.com/tokyo/A1317/A131703/13181411/>
 
 ## 4位: 🍶 鼎
 @新宿三丁目駅  
@@ -52,7 +52,7 @@ https://tabelog.com/tokyo/A1317/A131703/13181411/
 全体的に単価が高いけど、美味しい  
 追いついた雰囲気で日本酒と海鮮を楽しめておすすめ
 
-https://tabelog.com/tokyo/A1304/A130401/13000879/
+<https://tabelog.com/tokyo/A1304/A130401/13000879/>
 
 ## 5位: 🐑 ジンギスカン 十鉄
 @北海道/東本願寺前駅  
@@ -64,15 +64,15 @@ https://tabelog.com/tokyo/A1304/A130401/13000879/
 タレが本当においしいし、ジンギスカンも癖がなくてとても食べやすくてたくさん食べた  
 北海道に行ったらまた行きたい
 
-https://tabelog.com/hokkaido/A0101/A010103/1002295/
+<https://tabelog.com/hokkaido/A0101/A010103/1002295/>
 
 ## 入賞
 他にもランクインしませんでしたが印象に残ったものをノミネート
 
-[神楽坂アッカ](https://tabelog.com/tokyo/A1309/A130905/13216288/): 🍷 @神楽坂駅 ワインのペアリング   
-[ヴァカンツァ](https://tabelog.com/tokyo/A1303/A130302/13007135/): 🍕 @恵比寿駅 ピザ  
-[神楽坂焼肉 Kintan](https://tabelog.com/tokyo/A1309/A130905/13205332/): 🥩 @神楽坂駅 焼き肉  
-[琉球の牛 恩納本館](https://tabelog.com/okinawa/A4703/A470303/47000637/): 🥩 @沖縄県恩納村 焼き肉
+- [神楽坂アッカ](https://tabelog.com/tokyo/A1309/A130905/13216288/): 🍷 @神楽坂駅 ワインのペアリング   
+- [ヴァカンツァ](https://tabelog.com/tokyo/A1303/A130302/13007135/): 🍕 @恵比寿駅 ピザ  
+- [神楽坂焼肉 Kintan](https://tabelog.com/tokyo/A1309/A130905/13205332/): 🥩 @神楽坂駅 焼き肉  
+- [琉球の牛 恩納本館](https://tabelog.com/okinawa/A4703/A470303/47000637/): 🥩 @沖縄県恩納村 焼き肉
 
 # 🏨 宿泊施設部門
 
@@ -89,7 +89,7 @@ https://tabelog.com/hokkaido/A0101/A010103/1002295/
 
 「櫟」という部屋に泊まったんですが、これまた最高でした
 
-http://www.h-mahoroba.jp
+<http://www.h-mahoroba.jp>
 
 ## 2位: HAKODATE 海峡の風
 @北海道/函館市
@@ -108,7 +108,7 @@ http://www.h-mahoroba.jp
 
 部屋は「ツインルーム」というところだったので、次行くとしたら展望風呂付きに泊まってみたい
 
-https://hakodate-uminokaze.com
+<https://hakodate-uminokaze.com>
 
 ## 3位: ホテルモントレ沖縄 スパ & リゾート
 @沖縄県/恩納村
@@ -121,7 +121,7 @@ https://hakodate-uminokaze.com
 プレミアムクラブフロアのオーシャンバスという部屋に泊まったのですが、部屋からのオーシャンビューも最高だし、プレミアムクラブフロアの特典でついてくる温水スパや温泉に入り放題だし、ロビーにあるバーでアルコール飲み放題だしで最高に堕落したリゾート気分を満喫できました  
 泊まる際はちょっと値段上がりますがプレミアムクラブフロアにするのをおすすめします
 
-https://www.hotelmonterey.co.jp/okinawa/
+<https://www.hotelmonterey.co.jp/okinawa/>
 
 ## 4位: 町家レジデンスイン金沢 東山かげろひ
 @石川県/金沢市
@@ -134,7 +134,7 @@ https://www.hotelmonterey.co.jp/okinawa/
 また、管理会社の人がとっても新設でいろいろなお願いを受け入れてくれて、テーブルや加湿器などなど貸し出してくれました。（とってもありがたい）  
 またこのサービスを利用したいな！と思いました。
 
-https://www.kanazawa-machiya-inn.com/jp/accommodations/kageroi/
+<https://www.kanazawa-machiya-inn.com/jp/accommodations/kageroi/>
 
 ## 5位: 洞爺サンパレスリゾート & スパ
 @北海道/洞爺湖
@@ -148,4 +148,4 @@ https://www.kanazawa-machiya-inn.com/jp/accommodations/kageroi/
 でもこれはここじゃなくてもほとりにあるホテルならどこでも見れそうな感じ  
 あとは、花火ボートを追いかける遊覧船で見るのも面白そう
 
-https://www.toyasunpalace.co.jp
+<https://www.toyasunpalace.co.jp>

@@ -2,7 +2,7 @@
 layout: post
 title: jekyll nowにてブログを開設してみた
 categories:
-- daily
+- 日記
 tags:
 - jekyll
 ---
