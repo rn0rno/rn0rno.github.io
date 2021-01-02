@@ -6,15 +6,15 @@ categories:
 tags:
 - Android
 ---
-## 概要
+# 概要
 Android用のプラグイン
 ([butterknife - github](https://github.com/JakeWharton/butterknife))  
 
 `onClickListener`とか`findViewByID(...)`みたいなAndroidでよくあるめんどくさいやつが簡単になる(！らしい)のでとりあえず使ってみます．
 
-## 導入方法
+# 導入方法
 
-### 1. `Butter Knife`をinstall
+## 1. `Butter Knife`をinstall
 
 `build.gradle`に以下のコードを挿入しインストール．
 
@@ -25,7 +25,7 @@ dependencies {
 }
 ```
 
-### 2. (optional) `Butter Knife Zelezny`をinstall
+## 2. (optional) `Butter Knife Zelezny`をinstall
 `Butter Knife Zelezny`は`Butter Knife`を便利にするプラグインらしいです．  
 入れなくてもいいですが今回は入れたことを前提としてみます．
 
@@ -39,7 +39,7 @@ dependencies {
 
 これで`Butter Knife`と`Butter Knife Zelezny`の導入は完了したらしい．
 
-## 使用方法
+# 使用方法
 
 1. `activity_main.xml`(View部分)を予め作成しておく．`id`は振っておく．
 
@@ -56,7 +56,7 @@ dependencies {
 
 あとは`onClick`メソッドの中に書きたいことを書くだけ．
 
-## 例
+# 例
 `Butter Knife Zelezny`によって自動生成されたコードを示しておきます．
 
 `class`内に作成されたフィールドは以下のような感じ．
@@ -98,8 +98,8 @@ public void onViewClicked() {
 }
 ```
 
-## ハマったポイント
-### バージョンアップにより`.inject`から`.bind`になってた？
+# ハマったポイント
+## バージョンアップにより`.inject`から`.bind`になってた？
 参考サイトをいろいろ見てると`onCreate`の部分が
 ```java
 @Override
@@ -112,7 +112,7 @@ protected void onCreate(Bundle savedInstanceState) {
 となっており，`ButterKnife.inject(this)`でエラーが発生して困った．
 `ButterKnife.bind(this)`にすることで解決．
 
-### `import`部分が他のところに書いていなくて困った．
+## `import`部分が他のところに書いていなくて困った．
 
 ```java
 import butterknife.BindView;
@@ -123,13 +123,13 @@ import butterknife.OnClick;
 参考サイトは結構コードだけしかかいてなくて，`import`がよくわからずに困った．  
 ので一応載せておきます．これだけ書いてあればとりあえず動く．
 
-## まとめ
+# まとめ
 - `Butter Knife`の導入ができた．
 - `Butter Knife Zelezny`はとっても便利．
 - バージョン違いは大変だけどプラグインありがとう．
 - 使用感などは何か感じたら追記するかも．
 
-## 参考
+# 参考
 
 [Butter Knife - 公式](http://jakewharton.github.io/butterknife/)  
 [Butter Knifeが素敵だ - Qiita](http://qiita.com/RyotaMurohoshi/items/93b9fc131a6863a5a772)  
