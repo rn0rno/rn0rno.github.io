@@ -157,11 +157,11 @@ section.entry {
   }
 
   ul {
-    font-size: 14px;
-    margin: 0;
+    font-size: 15px;
+    margin: 0 0 8px 0;
     padding: 0;
     list-style: none;
-    line-height: 1.3em;
+    line-height: 27px;
 
     li {
       padding: 0;
@@ -176,8 +176,8 @@ section.entry {
 
       &:before {
         font-family: "Font Awesome 5 Free";
-        content: "\f101";
-        margin-right: 0.5rem;
+        content: "\f0a9";
+        margin-right: 8px;
       }
     }
   }
