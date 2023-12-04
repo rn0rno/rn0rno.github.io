@@ -95,3 +95,6 @@ paginate_path: "/page:num"
 # menthoned
 jekyll-mentions:
   base_url: https://twitter.com
+
+# timezone
+timezone: Asia/Tokyo
