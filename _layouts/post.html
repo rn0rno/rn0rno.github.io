@@ -5,14 +5,12 @@ layout: default
 <article class="post">
   <section class="title">
     <h1>{{ page.title }}</h1>
-    <div class="date">
-      {{ page.date | date: "%Y年%m月%d日" }} 公開
-    </div>
+    <div class="date">{{ page.date | date: "%Y年%m月%d日" }} 公開</div>
     <div class="taglist">
       {% for tag in page.tags %}
-        <a href="{{ baseurl }}/tags#{{ tag }}">
-          <span>{{ tag }}</span>
-        </a>
+      <a href="{{ baseurl }}/tags#{{ tag }}">
+        <span>{{ tag }}</span>
+      </a>
       {% endfor %}
     </div>
   </section>
@@ -22,8 +20,7 @@ layout: default
     {% include toc.html html=content sanitize=true h_max=1 ordered=true %}
   </section>
 
-  <section class="entry">
-    {{ content }}
-  </section>
-  {% include disqus.html %}
+  <section class="entry">{{ content }}</section>
+
+  {% include similar_posts.html %} {% include disqus.html %}
 </article>
