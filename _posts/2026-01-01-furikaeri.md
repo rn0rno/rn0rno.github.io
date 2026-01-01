@@ -84,7 +84,7 @@ tags:
 
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;" title="「自分の声を聴く」ということ – ももにっき – 思ったことの書き溜め" src="https://hatenablog-parts.com/embed?url=https://rn0rno.github.io/2024/11/14/know-myself/" width="300" height="150" frameborder="0" scrolling="no"></iframe>  
   
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Famzn.asia%2Fd%2FhA3RjUf" width="100%" frameborder="0" scrolling="no"></iframe>  
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4591178544" width="100%" frameborder="0" scrolling="no"></iframe>
   
 # appendix. 目標  
 今年、31歳の誕生日に立てた目標がある。  
