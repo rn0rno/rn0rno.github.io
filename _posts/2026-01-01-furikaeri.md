@@ -122,7 +122,7 @@ HASH のみんなの背中を見て、「こういう場があるといいな」
 
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;" title="「自分の声を聴く」ということ – ももにっき – 思ったことの書き溜め" src="https://hatenablog-parts.com/embed?url=https://rn0rno.github.io/2024/11/14/know-myself/" width="300" height="150" frameborder="0" scrolling="no"></iframe>  
   
-<iframe src="https://hatenablog-parts.com/embed?url=https://www.amazon.co.jp/dp/4591178544" width="100%" frameborder="0" scrolling="no"></iframe>
+さみしい夜にはペンを持て: https://www.amazon.co.jp/dp/4591178544
 
 もし、走ることに少しでも興味があったら、気軽に声をかけてください。  
 速くなくても、続かなくても、大丈夫です。
