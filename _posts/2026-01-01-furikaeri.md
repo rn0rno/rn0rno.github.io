@@ -12,7 +12,7 @@ tags:
 
 今年もいろいろな出来事があった。仕事、ランニング、登山、人との関係。その一つひとつを細かく書くというよりは、「今年はどんな一年だったのか」を一度立ち止まって整理してみたいと思う。  
 年末が近づくにつれて、振り返りの構成やテーマを考えていたのだけど、今年は充実しすぎていて、それが本当に難しかった。  
-本当に今年は 365 日だったのだろうか。
+本当に今年は 365 日だったのだろうか。そう思ってしまうくらい、密度の高い一年だった。
 
 # 少しだけ、去年の振り返り
 
@@ -123,11 +123,15 @@ HASH のみんなの背中を見て、「こういう場があるといいな」
 <iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;" title="「自分の声を聴く」ということ – ももにっき – 思ったことの書き溜め" src="https://hatenablog-parts.com/embed?url=https://rn0rno.github.io/2024/11/14/know-myself/" width="300" height="150" frameborder="0" scrolling="no"></iframe>  
   
 <iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4591178544" width="100%" frameborder="0" scrolling="no"></iframe>
-  
-# appendix. 目標  
-今年、31歳の誕生日に立てた目標がある。  
-いくつかも達成しているが、残り半年で達成数を増やしたい。  
-  
+
+もし、走ることに少しでも興味があったら、気軽に声をかけてください。  
+速くなくても、続かなくても、大丈夫です。
+
+# appendix. 目標
+
+今年、31 歳の誕生日に立てた目標がある。  
+いくつかも達成しているが、残り半年で達成数を増やしたい。
+
 ## アクティブ系
 
 - 富士山に登る ✅
